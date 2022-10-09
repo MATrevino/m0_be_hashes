@@ -1,4 +1,4 @@
 greeting = "hello"
 name = "Meredith"
 
-puts "#{greeting}, #{name}!"
+puts "#{greeting}, #{name}! I hope all is well."
